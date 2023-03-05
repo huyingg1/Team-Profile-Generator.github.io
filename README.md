@@ -14,6 +14,7 @@ You can use the application to build a webpage that display all team members' ba
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Example](#example)
 
 ## Installation
 
@@ -38,5 +39,8 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 ## Questions
 
 For any questions or concerns, please contact me at yinggeberry@gmail.com. You can also visit my [GitHub profile](https://github.com/huyingg1).
+
+## Example
+[Example HTML Page](https://huyingg1.github.io/Team-Profolio-Generator.github.io/index.html)
 
 ![screenshoot-challenge10](team-profolio-generator.png)
