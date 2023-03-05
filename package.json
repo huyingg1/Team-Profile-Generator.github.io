@@ -1,0 +1,14 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "My project description",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "my-dependency": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
